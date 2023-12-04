@@ -1,4 +1,4 @@
-# Chat via OpenAI API
+# Chat with ChatGPT via the OpenAI API
 
 
 This litte script enables you to chat with a server which supports OpenAI API. It is especially suitable to use with ChatGPT-4. OpenAI Plus subscription costs 20$ per month and you have to sign up for waitlist. However, you can use ChatGPT-4 via API without waitlist if you put some money in your account. If the total number of tokens you exchange with ChatGPT-4 does not exceed those 20$ per month you can save some money (20$ will buy lots of tokens, like 1M+). In addition, you get easy python interface and the option to modify the context, save, load and continue chats.
